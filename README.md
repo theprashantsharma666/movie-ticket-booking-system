@@ -6,9 +6,6 @@ The main engineering focus is **double-booking protection under concurrent reque
 
 > **Status:** Week 1, planning and repository setup. Sections marked *(planned)* are not built yet.
 
-<!-- Add a screenshot of the seat selection page here once the frontend exists -->
-<!-- ![Seat selection](docs/screenshots/seat-selection.png) -->
-
 ## Features
 
 ### User side
